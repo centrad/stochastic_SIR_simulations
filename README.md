@@ -1,5 +1,7 @@
 # stochastic_SIR_simulations
 
+# Work in progress - content may change
+
 Simulations of Markov SIR epidemic models with heterogeneous
 infectiousness (probability of transmission), contact rates,
 and group sizes.
