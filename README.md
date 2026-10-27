@@ -3,7 +3,7 @@
 # Work in progress - content may change
 
 Simulations of Markov SIR epidemic models with heterogeneous
-infectiousness (probability of transmission), contact rates,
+transmission probabilities, contact rates,
 and group sizes.
 
 Developed as part of unpublished thesis work.
